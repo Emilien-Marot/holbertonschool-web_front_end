@@ -22,8 +22,8 @@ body, a{
     color: text-color;
 }
 body{
-    font-family: font-family-base;
+    font-family: var(--font-family-base);
 }
 h6{
-    font-family: font-family-title;
+    font-family: var(--font-family-title);
 }
