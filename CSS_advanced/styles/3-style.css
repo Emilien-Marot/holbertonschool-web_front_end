@@ -13,8 +13,9 @@ root{
     display: none;
 }
 .card-category, .section-tagline{
-    color: #D73953;
+    color: color-primary;
+
 }
 body, a{
-    color: #161616;
+    color: text-color;
 }
