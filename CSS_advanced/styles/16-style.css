@@ -237,7 +237,8 @@ html{
 }
 .container{
     width: 960px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 a:link{
     color: text-color;
