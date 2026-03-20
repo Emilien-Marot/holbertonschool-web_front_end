@@ -236,7 +236,7 @@ html{
     text-transform: var(--section-tagline-transform);
 }
 .container{
-    width: 960;
+    width: 960px;
     margin: auto;
 }
 a:link{
