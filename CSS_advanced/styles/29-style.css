@@ -332,8 +332,6 @@ h1, h2, h3, h4, h5, h6{
 }
 .nav .nav-link:hover{
     color: var(--nav-item-link-hover);
-    background-color: var(--color-primary);
-    width: 100%;
 }
 ul.row{
     margin: 0;
@@ -447,4 +445,9 @@ ul.row{
     background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
+}
+.nav .nav-link:hover::before{
+    background-color: var(--color-primary);
+    width: 100%;
+
 }
